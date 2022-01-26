@@ -1,0 +1,22 @@
+{
+  "generator-template-ui5-project": {
+    "projectname": "SAPUI5CFLaunchpad",
+    "namespaceUI5": "SAPUI5_CF",
+    "platform": "SAP Launchpad service",
+    "viewtype": "XML",
+    "ui5libs": "Content delivery network (SAPUI5)",
+    "newdir": true,
+    "codeassist": true,
+    "namespaceURI": "SAPUI5_CF",
+    "opa5pos": [
+      "Main"
+    ],
+    "opa5Journeys": [
+      "Main"
+    ],
+    "uimodules": [
+      "uimodule"
+    ],
+    "setupCompleted": true
+  }
+}
