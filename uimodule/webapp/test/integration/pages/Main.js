@@ -24,7 +24,7 @@ sap.ui.require(["sap/ui/test/Opa5", "sap/ui/test/actions/Press"], function (Opa5
                     return this.waitFor({
                         controlType: "sap.m.Title",
                         properties: {
-                            text: "Title of SAPUI5_CF.SAPUI5CFLaunchpad",
+                            text: "SAP UI5 CF Launchpad",
                         },
                         success: function () {
                             Opa5.assert.ok(true, "The page shows the correct title");
